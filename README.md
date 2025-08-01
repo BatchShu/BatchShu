@@ -1,16 +1,68 @@
-## Hi there 👋
+## 批发薯
+<br>
 
-<!--
-**BatchShu/BatchShu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 官网地址
+<br>
 
-Here are some ideas to get you started:
+[<img width="25" alt="批发薯Logo" src="./images/logo-1.png">批发薯官网](https://www.langrensha.pub/)
+### 故事的由来
+**批发薯** 的idea最早是在做运营时候孕育的，我指导的博主最早在抖音做视频，差不多有2W粉丝，后来把视频转发到快手3个月就有10W粉丝，后来又将视频搬运到小红书差不多两个月就有4.5W粉丝，在这个折腾的过程中，我每次都要将之前的视频下载下来，然后重新发布，因为我们差不多有400个视频，整个的搬运过程是非常痛苦的。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+然后我上github 找了一下相关的软件，其实有很多开源的软件，但是都不大好用，要么依赖不好下载，要么没有说明文档，要使用起来我还要去看半天的代码。
+
+综合下来看半天的收益不是很大，而且批量发布的情况下，需要自己手动折腾一个txt文件，甚至于自己在数据库里面插入数据，和我自己手动一个个的在平台发没有什么很大的区别。
+
+然后我又尝试了一下商业软件，说实话市面上的这类软件很多，试用下来最后发现他们的所谓的批量发布其实是一个视频发布到多个平台，根本不是多个视频批量发布一个或者多个平台。
+
+最后我自己不得不写了一些脚本解决了问题。
+
+后来我又在自己的软件里面加入了类似Excel的批量数据操作，整个软件使用起来非常的符合我的需求，顺便将软件给身边的朋友试用了一下，更具他们的反馈，我决定将批发薯做成产品发不出来。
+
+这就是批发薯的由来，之所以叫做批发薯，是因为在没有花钱运营的情况下，几个平台里面小红书的收益最好。所以最后叫做“批发”薯
+
+
+### 功能简介
+<br>
+
+
+- ✅自媒体账号管理
+浏览器登录，不涉及API操作，账号风险低
+[<img width="800" alt="批发薯Logo" src="./images/1.png">]()
+[<img width="800" alt="批发薯Logo" src="./images/2.png">]()
+<br>
+
+可一次性上传多个视频，且批量导入标题文案到软件；
+也不需要自己额外写txt或其他批量文件，直接在软件里面像excel一样拖拽复制操作；可以直接将excel内复制的数据粘贴到软件内；
+[<img width="800" alt="批发薯Logo" src="./images/4.png">]()
+<br>
+
+- ✅批量发布视频
+直接将批量的视频，发布到多个账号（不是将一个视频发布到多个账号）；
+[<img width="800" alt="批发薯Logo" src="./images/6.png">]()
+
+- ✅精细化的内容与账号管理
+可将视频与账号绑定，可将所有的视频发布到所有平台的同时，可将特定的视频发布到特定的平台，实现精细化管理
+[<img width="800" alt="批发薯Logo" src="./images/5.png">]()
+
+
+### 专业化团队支撑
+<br>
+
+- ✅开发团队拥有经验丰富的运营经验，指导运营多个自媒体账号，深知用户的痛点与需求
+- ✅开发人员经验丰富
+- ✅软件操作简单易上手
+- ✅拥有完善的用户反馈渠道，软件更新活跃
+- ✅**注重用户隐私**，除了用户与支付渠道，其他的操作数据均在本地
+- ✅软件安全，所有的操作都是模拟用户，不涉及到API操作，不获取用户账号数据
+
+
+### 软件下载
+<br>
+
+- ✅[<img width="25" alt="批发薯Logo" src="./images/logo-1.png">批发薯官网](https://www.langrensha.pub/)
+
+
+- ✅[<img width="25" alt="批发薯Logo" src="./images/logo-1.png">网盘下载](https://www.langrensha.pub/)
+
+
+### 内测
