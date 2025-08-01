@@ -70,7 +70,13 @@
 
 ### 免费获取
 
-- 直接给本仓库 github gitee star🌟 的用户直接截图私信客服给我，即可获得试用一个月
+- 直接给本仓库 github gitee 
+``` html
+https://gitee.com/BatchShu/BatchShu
+https://github.com/BatchShu/BatchShu/
+
+``` 
+star🌟的用户直接截图私信客服给我，即可获得试用一个月
 
 - 在以下自媒体平台转发，投稿，均可获得免费试用，截图私信客服即可。
     - 抖音
