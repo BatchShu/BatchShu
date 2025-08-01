@@ -65,4 +65,26 @@
 - ✅[<img width="25" alt="批发薯Logo" src="./images/logo-1.png">网盘下载](https://www.langrensha.pub/)
 
 
-### 内测
+### 公测
+目前正在招收5公测试用户，可以  <del>免费</del>0.1 获取软件，需要参与软件的使用与问题反馈
+
+### 免费获取
+
+- 直接给本仓库 github gitee star🌟 的用户直接截图私信客服给我，即可获得试用一个月
+
+- 在以下自媒体平台转发，投稿，均可获得免费试用，截图私信客服即可。
+    - 抖音
+    - 快手
+    - 小红书
+    - bilibili
+    - 视频号 
+
+### 客服
+
+[<img width="100" alt="客服二维码" src="./images/weixin.png">客服微信二维码](https://www.langrensha.pub/)
+
+
+
+📱13341109610（微信同号）
+
+
